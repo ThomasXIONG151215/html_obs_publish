@@ -1,0 +1,384 @@
+{
+  "vaultName": "Vault",
+  "lastExport": 1709997762976,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title is-focused",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "反光膜/attachments/Pasted Image 20240305224431_478.png",
+    "反光膜/attachments/Pasted Image 20240305225027_554.png",
+    "反光膜/attachments/Pasted Image 20240305225154_577.png",
+    "反光膜/attachments/Pasted Image 20240305225844_637.png",
+    "反光膜/边界条件.excalidraw.png",
+    "反光膜/边界条件.excalidraw.md",
+    "反光膜/仿真设置.md",
+    "attachments/2d_opt_alum.png",
+    "attachments/2d_opt_alum.gif",
+    "attachments/2d_opt_alum 1.png",
+    "attachments/2d_opt_steel.png",
+    "attachments/2d_opt_steel.gif",
+    "attachments/microspray_litrvw.jpg",
+    "attachments/Pasted image 20240301213020.png",
+    "attachments/Pasted Image 20240305142432_283.png",
+    "attachments/pixel_lettuce-image.png",
+    "Canvas/第一次热链实验安排.html",
+    "Canvas/第一次热链实验安排.canvas",
+    "Canvas/综合方案.html",
+    "Canvas/综合方案.canvas",
+    "Daily Notes/2024-03-08.html",
+    "Daily Notes/2024-03-08.md",
+    "Excalidraw/第一次热链实验容器1.excalidraw.html",
+    "Excalidraw/第一次热链实验容器1.excalidraw.md",
+    "Excalidraw/概念草图.excalidraw.html",
+    "Excalidraw/概念草图.excalidraw.svg",
+    "Excalidraw/概念草图.excalidraw.md",
+    "Excalidraw/热管和热链.excalidraw.html",
+    "Excalidraw/热管和热链.excalidraw.md",
+    "Excalidraw/双水箱设计.excalidraw.html",
+    "Excalidraw/双水箱设计.excalidraw.md",
+    "Finance/关于政府补助机会【来自yzh】.html",
+    "Finance/关于政府补助机会【来自yzh】.md",
+    "Modeling/二维营养液平板传热仿真优化记录.html",
+    "Modeling/二维营养液平板传热仿真优化记录.md",
+    "Publish/lib/metadata.json",
+    "Publish/lib/rss.xml",
+    "方案讨论.html",
+    "方案讨论.md",
+    "实验思路.html",
+    "实验思路.md",
+    "序论.html",
+    "序论.md",
+    "序论.docx",
+    "Intro + Motivation.docx",
+    "Intro + Motivation 1.docx",
+    "ob to word test.html",
+    "ob to word test.pdf",
+    "ob to word test.md",
+    "ob to word test.docx",
+    "Untitled.html",
+    "Untitled.md",
+    "Untitled.canvas"
+  ],
+  "mainDependencies": [],
+  "fileInfo": {
+    "反光膜/attachments/Pasted Image 20240305224431_478.png": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 103056,
+      "exportedPath": "反光膜/attachments/Pasted Image 20240305224431_478.png",
+      "dependencies": []
+    },
+    "反光膜/attachments/Pasted Image 20240305225027_554.png": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 21869,
+      "exportedPath": "反光膜/attachments/Pasted Image 20240305225027_554.png",
+      "dependencies": []
+    },
+    "反光膜/attachments/Pasted Image 20240305225154_577.png": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 15465,
+      "exportedPath": "反光膜/attachments/Pasted Image 20240305225154_577.png",
+      "dependencies": []
+    },
+    "反光膜/attachments/Pasted Image 20240305225844_637.png": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 10270,
+      "exportedPath": "反光膜/attachments/Pasted Image 20240305225844_637.png",
+      "dependencies": []
+    },
+    "反光膜/边界条件.excalidraw.png": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 289207,
+      "exportedPath": "反光膜/边界条件.excalidraw.png",
+      "dependencies": []
+    },
+    "反光膜/边界条件.excalidraw.md": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 21219,
+      "exportedPath": "反光膜/边界条件.excalidraw.html",
+      "dependencies": []
+    },
+    "反光膜/仿真设置.md": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 0,
+      "exportedPath": "反光膜/仿真设置.html",
+      "dependencies": []
+    },
+    "attachments/2d_opt_alum.png": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 46404,
+      "exportedPath": "attachments/2d_opt_alum.png",
+      "dependencies": []
+    },
+    "attachments/2d_opt_alum.gif": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 1794329,
+      "exportedPath": "attachments/2d_opt_alum.gif",
+      "dependencies": []
+    },
+    "attachments/2d_opt_alum 1.png": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 36227,
+      "exportedPath": "attachments/2d_opt_alum 1.png",
+      "dependencies": []
+    },
+    "attachments/2d_opt_steel.png": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 35919,
+      "exportedPath": "attachments/2d_opt_steel.png",
+      "dependencies": []
+    },
+    "attachments/2d_opt_steel.gif": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 2307849,
+      "exportedPath": "attachments/2d_opt_steel.gif",
+      "dependencies": []
+    },
+    "attachments/microspray_litrvw.jpg": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 119871,
+      "exportedPath": "attachments/microspray_litrvw.jpg",
+      "dependencies": []
+    },
+    "attachments/Pasted image 20240301213020.png": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 49286,
+      "exportedPath": "attachments/Pasted image 20240301213020.png",
+      "dependencies": []
+    },
+    "attachments/Pasted Image 20240305142432_283.png": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 60299,
+      "exportedPath": "attachments/Pasted Image 20240305142432_283.png",
+      "dependencies": []
+    },
+    "attachments/pixel_lettuce-image.png": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 3163177,
+      "exportedPath": "attachments/pixel_lettuce-image.png",
+      "dependencies": []
+    },
+    "Canvas/第一次热链实验安排.html": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 275231,
+      "exportedPath": "Canvas/第一次热链实验安排.html",
+      "dependencies": []
+    },
+    "Canvas/第一次热链实验安排.canvas": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 478,
+      "exportedPath": "Canvas/第一次热链实验安排.html",
+      "dependencies": []
+    },
+    "Canvas/综合方案.html": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 288139,
+      "exportedPath": "Canvas/综合方案.html",
+      "dependencies": []
+    },
+    "Canvas/综合方案.canvas": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 3054,
+      "exportedPath": "Canvas/综合方案.html",
+      "dependencies": []
+    },
+    "Daily Notes/2024-03-08.html": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 266494,
+      "exportedPath": "Daily Notes/2024-03-08.html",
+      "dependencies": []
+    },
+    "Daily Notes/2024-03-08.md": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 314,
+      "exportedPath": "Daily Notes/2024-03-08.html",
+      "dependencies": []
+    },
+    "Excalidraw/第一次热链实验容器1.excalidraw.html": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 295005,
+      "exportedPath": "Excalidraw/第一次热链实验容器1.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/第一次热链实验容器1.excalidraw.md": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 27245,
+      "exportedPath": "Excalidraw/第一次热链实验容器1.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/概念草图.excalidraw.html": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 1119117,
+      "exportedPath": "Excalidraw/概念草图.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/概念草图.excalidraw.svg": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 1042186,
+      "exportedPath": "Excalidraw/概念草图.excalidraw.svg",
+      "dependencies": []
+    },
+    "Excalidraw/概念草图.excalidraw.md": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 488634,
+      "exportedPath": "Excalidraw/概念草图.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/热管和热链.excalidraw.html": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 467207,
+      "exportedPath": "Excalidraw/热管和热链.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/热管和热链.excalidraw.md": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 130109,
+      "exportedPath": "Excalidraw/热管和热链.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/双水箱设计.excalidraw.html": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 1011527,
+      "exportedPath": "Excalidraw/双水箱设计.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/双水箱设计.excalidraw.md": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 500831,
+      "exportedPath": "Excalidraw/双水箱设计.excalidraw.html",
+      "dependencies": []
+    },
+    "Finance/关于政府补助机会【来自yzh】.html": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 266817,
+      "exportedPath": "Finance/关于政府补助机会【来自yzh】.html",
+      "dependencies": []
+    },
+    "Finance/关于政府补助机会【来自yzh】.md": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 267,
+      "exportedPath": "Finance/关于政府补助机会【来自yzh】.html",
+      "dependencies": []
+    },
+    "Modeling/二维营养液平板传热仿真优化记录.html": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 11600673,
+      "exportedPath": "Modeling/二维营养液平板传热仿真优化记录.html",
+      "dependencies": []
+    },
+    "Modeling/二维营养液平板传热仿真优化记录.md": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 1504,
+      "exportedPath": "Modeling/二维营养液平板传热仿真优化记录.html",
+      "dependencies": []
+    },
+    "Publish/lib/metadata.json": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 301,
+      "exportedPath": "Publish/lib/metadata.json",
+      "dependencies": []
+    },
+    "Publish/lib/rss.xml": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 665,
+      "exportedPath": "Publish/lib/rss.xml",
+      "dependencies": []
+    },
+    "方案讨论.html": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 273199,
+      "exportedPath": "方案讨论.html",
+      "dependencies": []
+    },
+    "方案讨论.md": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 4681,
+      "exportedPath": "方案讨论.html",
+      "dependencies": []
+    },
+    "实验思路.html": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 271146,
+      "exportedPath": "实验思路.html",
+      "dependencies": []
+    },
+    "实验思路.md": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 2279,
+      "exportedPath": "实验思路.html",
+      "dependencies": []
+    },
+    "序论.html": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 752564,
+      "exportedPath": "序论.html",
+      "dependencies": []
+    },
+    "序论.md": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 6224,
+      "exportedPath": "序论.html",
+      "dependencies": []
+    },
+    "序论.docx": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 17745,
+      "exportedPath": "序论.docx",
+      "dependencies": []
+    },
+    "Intro + Motivation.docx": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 17756,
+      "exportedPath": "Intro + Motivation.docx",
+      "dependencies": []
+    },
+    "Intro + Motivation 1.docx": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 15805,
+      "exportedPath": "Intro + Motivation 1.docx",
+      "dependencies": []
+    },
+    "ob to word test.html": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 748094,
+      "exportedPath": "ob to word test.html",
+      "dependencies": []
+    },
+    "ob to word test.pdf": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 47167,
+      "exportedPath": "ob to word test.pdf",
+      "dependencies": []
+    },
+    "ob to word test.md": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 1851,
+      "exportedPath": "ob to word test.html",
+      "dependencies": []
+    },
+    "ob to word test.docx": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 15431,
+      "exportedPath": "ob to word test.docx",
+      "dependencies": []
+    },
+    "Untitled.html": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 266104,
+      "exportedPath": "Untitled.html",
+      "dependencies": []
+    },
+    "Untitled.md": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 8,
+      "exportedPath": "Untitled.html",
+      "dependencies": []
+    },
+    "Untitled.canvas": {
+      "modifiedTime": 1709997762976,
+      "sourceSize": 715,
+      "exportedPath": "Untitled.html",
+      "dependencies": []
+    }
+  }
+}

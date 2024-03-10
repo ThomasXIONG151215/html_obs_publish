@@ -1,0 +1,11 @@
+{
+  "vaultName": "Vault",
+  "lastExport": 1709996389126,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title is-focused",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [],
+  "mainDependencies": [],
+  "fileInfo": {}
+}
